@@ -4,6 +4,8 @@
 This repository contains the code for codebook construction and alignment evaluation.
 To facilitate evaluation, we provide a codebook and human value-coding results produced using either GPT-5.2 or GPT-OSS-120B as the value extractor. You can evaluate your model using either extractor.
 
+![](fig/main.png)
+
 ---
 
 ## Installation
