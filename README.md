@@ -1,6 +1,6 @@
 # Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook
 
-**DOVE (Distributional Open-ended Value Evaluation)** is an evaluation framework for cultural value alignment that compares value distributions in human- and LLM-written texts using a value codebook [ICML 2026](https://openreview.net/forum?id=z75O6LbPCF).
+**DOVE (Distributional Open-ended Value Evaluation)** is an evaluation framework for cultural value alignment that compares value distributions in human- and LLM-written texts using a value codebook [ICML 2026](https://icml.cc/virtual/2026/poster/60551).
 This repository contains the code for codebook construction and alignment evaluation.
 
 To facilitate evaluation, we provide a codebook and human value-coding results produced using either **GPT-5.2** or **GPT-OSS-120B** as the value-expression extractor. You can evaluate your model using either extractor.
