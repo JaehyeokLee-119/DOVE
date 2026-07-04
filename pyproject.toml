@@ -1,0 +1,35 @@
+[project]
+name = "DOVE"
+version = "0.1.0"
+description = "DOVE (Distributional Open-ended Value Evaluation) is an evaluation framework for cultural value alignment that compares value distributions in human- and LLM-written texts using a value codebook. This repository contains the code for codebook construction and alignment evaluation."
+readme = "README.md"
+requires-python = "==3.12.11"
+dependencies = [
+    "adjusttext>=1.3.0",
+    "dotenv>=0.9.9",
+    "fastparquet>=2024.11.0",
+    "fire>=0.7.1",
+    "google>=3.0.0",
+    "google-genai>=1.59.0",
+    "httpx>=0.28.1",
+    "konlpy>=0.6.0",
+    "matplotlib>=3.10.7",
+    "mauve-text>=0.4.0",
+    "nbformat>=5.10.4",
+    "nvitop>=1.6.1",
+    "openai>=2.15.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.2",
+    "plotly>=6.5.0",
+    "pot>=0.9.6.post1",
+    "pyarrow>=21.0.0",
+    "rouge-score>=0.1.2",
+    "sambanova>=1.2.0",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.1.2",
+    "statsmodels>=0.14.6",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.5",
+    "umap-learn>=0.5.9.post2",
+    "vllm>=0.13.0",
+]

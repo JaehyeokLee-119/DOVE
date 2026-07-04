@@ -1,0 +1,821 @@
+{"q_idx":0,"topic":"Write your opinion on the relationship between money and happiness."}
+{"q_idx":1,"topic":"Write your opinion on the meaning of life."}
+{"q_idx":2,"topic":"Write your opinion on jealousy in romantic relationships."}
+{"q_idx":3,"topic":"Write a personal reflection on the past year and your hopes for the upcoming year."}
+{"q_idx":4,"topic":"Write your opinion on the importance of living in the present moment."}
+{"q_idx":7,"topic":"Write your opinion on the role of reading books in personal development."}
+{"q_idx":8,"topic":"Write a text about personal growth and self-reflection."}
+{"q_idx":9,"topic":"Write your thoughts on what happiness means to you."}
+{"q_idx":10,"topic":"Write your opinion on how to live a fulfilling life."}
+{"q_idx":11,"topic":"Write a text about personal reflections and daily experiences."}
+{"q_idx":12,"topic":"Write your opinion on balancing work responsibilities with personal leisure activities."}
+{"q_idx":13,"topic":"Write your opinion on what defines a true friend."}
+{"q_idx":14,"topic":"Write a text about reflecting on the past year and setting intentions for the upcoming year."}
+{"q_idx":15,"topic":"Write your thoughts on the meaning of life and death."}
+{"q_idx":16,"topic":"Write your personal reflection on your summer experiences."}
+{"q_idx":17,"topic":"Write your opinion on the importance of gratitude in daily life."}
+{"q_idx":18,"topic":"Write your opinion on the importance of believing in yourself."}
+{"q_idx":19,"topic":"Write your thoughts on how perception of time changes with age."}
+{"q_idx":20,"topic":"Write a text about personal experiences with dieting and weight loss."}
+{"q_idx":21,"topic":"Write a text about reflecting on the past year and setting intentions for the upcoming year."}
+{"q_idx":22,"topic":"Write a personal reflection on a recent breakup and the emotions you experienced."}
+{"q_idx":23,"topic":"Write your personal reflection on the experience of losing a parent."}
+{"q_idx":24,"topic":"Write your personal reflections on everyday experiences and thoughts."}
+{"q_idx":25,"topic":"Write a personal reflection about your first love."}
+{"q_idx":26,"topic":"Write your opinion on the nature of love."}
+{"q_idx":27,"topic":"Write a text about personal reflections on the experience of autumn."}
+{"q_idx":28,"topic":"Write your opinion on the nature of life and death."}
+{"q_idx":29,"topic":"Write your personal reflection on a past romantic relationship and its memories."}
+{"q_idx":30,"topic":"Write your opinion on the role of money in people's lives."}
+{"q_idx":31,"topic":"Write your opinion on the challenges of balancing work responsibilities and personal life."}
+{"q_idx":32,"topic":"Write a text about personal reflections on love and relationships."}
+{"q_idx":33,"topic":"Write your opinion on the challenges of balancing work and parenting."}
+{"q_idx":34,"topic":"Write a text about personal development and self-improvement."}
+{"q_idx":35,"topic":"Write your personal reflection on the experience of rain."}
+{"q_idx":36,"topic":"Write about your personal dreams and aspirations."}
+{"q_idx":37,"topic":"Write your opinion on the qualities of a good partner in a romantic relationship."}
+{"q_idx":38,"topic":"Write your opinion on the importance of paying attention to details in everyday life."}
+{"q_idx":39,"topic":"Write your opinion on procrastination."}
+{"q_idx":40,"topic":"Write your personal reflection on the loss of a beloved pet."}
+{"q_idx":41,"topic":"Write a diary entry describing your recent daily experiences and feelings."}
+{"q_idx":42,"topic":"Write a personal reflection on your recent experiences and emotions."}
+{"q_idx":43,"topic":"Write a text about personal reflections on aging and the passage of time."}
+{"q_idx":44,"topic":"Write a text about personal growth and overcoming challenges in life."}
+{"q_idx":45,"topic":"Write a text about experiences and reflections on romantic relationships and breakups."}
+{"q_idx":46,"topic":"Write your opinion on the nature of happiness."}
+{"q_idx":47,"topic":"Write your opinion on the challenges and joys of parenting a young child."}
+{"q_idx":48,"topic":"Write a post describing your recent daily experiences and activities."}
+{"q_idx":49,"topic":"Write your thoughts on longing and love."}
+{"q_idx":50,"topic":"Write a text about coping with a breakup and personal growth afterward."}
+{"q_idx":51,"topic":"Write a personal narrative describing a birthday celebration, including details about the gifts received, family interactions, and the feelings associated with the event."}
+{"q_idx":52,"topic":"Write a text about the role of personal choices in shaping one's life."}
+{"q_idx":53,"topic":"Write your opinion on personal goal setting and plans for self-improvement."}
+{"q_idx":54,"topic":"Write a text about personal reflections on life, love, and the search for meaning."}
+{"q_idx":55,"topic":"Write your thoughts on the role of mothers."}
+{"q_idx":56,"topic":"Write a personal diary entry describing your daily activities and thoughts."}
+{"q_idx":57,"topic":"Write your opinion on the importance of using time wisely."}
+{"q_idx":58,"topic":"Write your opinion on the importance of attentive listening and empathy in personal relationships."}
+{"q_idx":59,"topic":"Write your opinion on personal decluttering and organization of belongings."}
+{"q_idx":60,"topic":"Write your thoughts on the importance of friendship."}
+{"q_idx":61,"topic":"Write a text about experiences and challenges of long-distance romantic relationships."}
+{"q_idx":62,"topic":"Write your thoughts on what it means to become an adult."}
+{"q_idx":63,"topic":"Write a personal introduction describing your background, interests, and experiences."}
+{"q_idx":64,"topic":"Write a text about personal reflections on the nature of love."}
+{"q_idx":65,"topic":"Write a text about appreciating everyday moments and expressing gratitude for ordinary daily life."}
+{"q_idx":66,"topic":"Write your opinion on the importance of choices in life."}
+{"q_idx":67,"topic":"Write your opinion on experiencing snow and its effects on daily life and activities."}
+{"q_idx":68,"topic":"Write your opinion on the role of failure and perseverance in personal growth."}
+{"q_idx":70,"topic":"Write a personal reflection on how certain scents can trigger memories."}
+{"q_idx":71,"topic":"Write your opinion on the meaning of Christmas."}
+{"q_idx":72,"topic":"Write your opinion on interpersonal conflicts and communication in personal relationships."}
+{"q_idx":73,"topic":"Write your thoughts on coping with loss and remembering a loved one."}
+{"q_idx":75,"topic":"Write your opinion on the importance of getting enough sleep for health."}
+{"q_idx":76,"topic":"Write your personal goals for the upcoming year."}
+{"q_idx":77,"topic":"Write your opinion on personal growth and self-improvement."}
+{"q_idx":78,"topic":"Write a text about personal reflections on happiness, career choices, and the purpose of life."}
+{"q_idx":79,"topic":"Write your opinion on family gatherings and shared meals."}
+{"q_idx":80,"topic":"Write a text about the concept of forgiveness."}
+{"q_idx":81,"topic":"Write your opinion on online harassment and threats."}
+{"q_idx":82,"topic":"Write your thoughts on the nature of happiness and love."}
+{"q_idx":83,"topic":"Write your opinion on the role of trust and suspicion in romantic relationships."}
+{"q_idx":85,"topic":"Write your opinion on the importance of regular exercise for personal health and well-being."}
+{"q_idx":86,"topic":"Write your opinion on the importance of supportive friendships."}
+{"q_idx":87,"topic":"Write your opinion on the importance of family relationships."}
+{"q_idx":88,"topic":"Write a personal reflection on aging and self\u2011perception."}
+{"q_idx":89,"topic":"Write your opinion on the nature of love, marriage, and how romantic relationships change over time."}
+{"q_idx":90,"topic":"Write your personal experience or thoughts about quitting smoking."}
+{"q_idx":91,"topic":"Write your opinion on the importance of effort and perseverance in achieving personal goals."}
+{"q_idx":92,"topic":"Write your opinion on the experiences of caring for a young child."}
+{"q_idx":93,"topic":"Write your opinion on work-life balance and personal fulfillment."}
+{"q_idx":94,"topic":"Write a text about dealing with unrequited love and the process of moving on."}
+{"q_idx":95,"topic":"Write a text about the nature of happiness and how individuals perceive and define it in their lives."}
+{"q_idx":96,"topic":"Write your opinion on how to achieve and sustain personal happiness."}
+{"q_idx":97,"topic":"Write a text about personal reflections on daily experiences and thoughts."}
+{"q_idx":98,"topic":"Write a description of your daily routine and activities."}
+{"q_idx":100,"topic":"Write a personal reflection on unrequited love and longing."}
+{"q_idx":101,"topic":"Write your opinion on the importance of authenticity in personal relationships."}
+{"q_idx":102,"topic":"Write your opinion on how couples should approach conflicts in long-term relationships."}
+{"q_idx":103,"topic":"Write a text about the experience of reuniting with a long-lost friend after many years."}
+{"q_idx":104,"topic":"Write your opinion on the relationship between personal happiness and romantic relationships."}
+{"q_idx":105,"topic":"Write a text about reflecting on a recent breakup and the emotions and thoughts associated with it."}
+{"q_idx":106,"topic":"Write your opinion on meeting an online friend in person for the first time."}
+{"q_idx":107,"topic":"Write your opinion on the role of competition in personal life."}
+{"q_idx":108,"topic":"Write your personal reflection on gratitude."}
+{"q_idx":109,"topic":"Write a text about the importance of personal independence and self\u2011reliance in one's life."}
+{"q_idx":110,"topic":"Write a text about the complexities of love and personal reflection in relationships."}
+{"q_idx":111,"topic":"Write a text about reflecting on past choices and living a life guided by personal values."}
+{"q_idx":112,"topic":"Write a text about the importance of self\u2011love and personal growth."}
+{"q_idx":113,"topic":"Write your opinion on the role of change in personal growth."}
+{"q_idx":114,"topic":"Write your opinion on marriage and having children."}
+{"q_idx":115,"topic":"Write a text about experiencing happiness in everyday moments."}
+{"q_idx":116,"topic":"Write your opinion on personal stress relief methods."}
+{"q_idx":117,"topic":"Write a text about overcoming personal obstacles and pursuing one's dreams and goals."}
+{"q_idx":118,"topic":"Write a text about the importance of keeping promises and personal reflections on commitment."}
+{"q_idx":119,"topic":"Write your reflections on caring for an elderly family member."}
+{"q_idx":120,"topic":"Write about your daily routine and experiences as a parent."}
+{"q_idx":122,"topic":"Write your opinion on how infidelity affects family relationships."}
+{"q_idx":123,"topic":"Write your personal reflections on the changing seasons and how they relate to life's experiences."}
+{"q_idx":124,"topic":"Write your opinion on the relationship between children and their parents."}
+{"q_idx":125,"topic":"Write a text about personal experiences and challenges of quitting smoking during the first few weeks."}
+{"q_idx":126,"topic":"Write your reflections on life, relationships, and personal growth."}
+{"q_idx":127,"topic":"Write your opinion on the importance of self\u2011acceptance and self\u2011love."}
+{"q_idx":128,"topic":"Write a personal reflection on living with a chronic illness and how you maintain a positive mindset."}
+{"q_idx":129,"topic":"Write your opinion on coping with work-related stress and burnout."}
+{"q_idx":131,"topic":"Write your opinion on the nature of pain and how it relates to personal growth."}
+{"q_idx":133,"topic":"Write your thoughts on balancing work responsibilities, family obligations, and personal fulfillment."}
+{"q_idx":134,"topic":"Write a personal reflection on childhood memories and family relationships."}
+{"q_idx":135,"topic":"Write a personal reflection about a cherished person from your past whom you deeply miss and the impact they had on your life."}
+{"q_idx":136,"topic":"Write your thoughts on the meaning of life and personal growth."}
+{"q_idx":137,"topic":"Write your opinion on the relationship between a father and his son."}
+{"q_idx":138,"topic":"Write your opinion on different methods for losing weight."}
+{"q_idx":139,"topic":"Write a personal reflection about a snowy day and how it influences your thoughts and feelings."}
+{"q_idx":140,"topic":"Write your thoughts on the experience of spring and its emotional impact."}
+{"q_idx":141,"topic":"Write a personal reflection on the experience of moving into a new home and the emotions and thoughts that arise."}
+{"q_idx":142,"topic":"Write your opinion on the relationship between love and happiness."}
+{"q_idx":143,"topic":"Write a text about personal life lessons and reflections."}
+{"q_idx":144,"topic":"Write a text about personal growth and how individuals change over time."}
+{"q_idx":145,"topic":"Write a text about personal development and life advice."}
+{"q_idx":146,"topic":"Write your opinion on how to develop a regular exercise habit."}
+{"q_idx":147,"topic":"Write your opinion on personal responsibility and making life choices."}
+{"q_idx":148,"topic":"Write a personal reflection on how the changing season influences your thoughts and emotions."}
+{"q_idx":149,"topic":"Write a text about personal growth and overcoming adversity."}
+{"q_idx":150,"topic":"Write a text about experiencing intense feelings of hopelessness and thoughts of suicide."}
+{"q_idx":151,"topic":"Write a text about personal reflections on life, aging, and the meaning of one's experiences."}
+{"q_idx":152,"topic":"Write your opinion on the relationship between humans and dogs."}
+{"q_idx":153,"topic":"Write a text about the nature of love and its relationship to impermanence and personal reflection."}
+{"q_idx":154,"topic":"Write a text about reflecting on a past romantic relationship and the lingering emotions associated with it."}
+{"q_idx":155,"topic":"Write your opinion on the importance of being true to oneself."}
+{"q_idx":156,"topic":"Write a text about how individuals can perceive challenges and hardships as opportunities for personal growth."}
+{"q_idx":157,"topic":"Write your opinion on how to express appreciation and love towards one's parents."}
+{"q_idx":158,"topic":"Write your thoughts on the experience of loneliness."}
+{"q_idx":159,"topic":"Write a text about the experience of traveling alone."}
+{"q_idx":160,"topic":"Write your opinion on the importance of living in the present moment."}
+{"q_idx":161,"topic":"Write your opinion on personal weight loss and dieting."}
+{"q_idx":162,"topic":"Write a text about personal reflections on death and the experience of saying goodbye to loved ones."}
+{"q_idx":163,"topic":"Write your opinion on blood donation."}
+{"q_idx":164,"topic":"Write your personal reflections on living with depression."}
+{"q_idx":165,"topic":"Write a personal reflection about how rainy weather influences your mood and thoughts."}
+{"q_idx":166,"topic":"Write a text about forgiveness and love in human relationships."}
+{"q_idx":167,"topic":"Write a post describing your experiences and observations about a pet cat."}
+{"q_idx":168,"topic":"Write a text about the nature of love and how it influences personal growth and relationships."}
+{"q_idx":169,"topic":"Write a text about coping with personal challenges and maintaining a positive outlook during difficult times."}
+{"q_idx":170,"topic":"Write your opinion on the relationship between science and religion."}
+{"q_idx":171,"topic":"Write a personal reflection on the passage of time, aging, and family relationships."}
+{"q_idx":172,"topic":"Write your personal recollection about reconnecting with high school friends and reflecting on past relationships."}
+{"q_idx":173,"topic":"Write a text about reflecting on everyday life experiences and memories of past friendships."}
+{"q_idx":174,"topic":"Write a text about existential reflections on personal struggle and the search for meaning."}
+{"q_idx":175,"topic":"Write a text about personal experiences and opinions regarding watching and reviewing movies."}
+{"q_idx":176,"topic":"Write your opinion on how personal challenges can affect resilience."}
+{"q_idx":177,"topic":"Write a personal reflection on memories of your high school years, describing the experiences, friendships, and emotions associated with that time."}
+{"q_idx":178,"topic":"Write a text about personal experiences of coping with physical injury, using writing as a form of therapy, and overcoming depression."}
+{"q_idx":179,"topic":"Write your opinion on the challenges of husband\u2011wife cooperation in childcare and household tasks."}
+{"q_idx":180,"topic":"Write your opinion on the nature of good and evil."}
+{"q_idx":181,"topic":"Write a text about the experience of waking up early and its impact on personal daily life."}
+{"q_idx":182,"topic":"Write about a day spent with family and friends, describing the meals, activities, and your feelings throughout the day."}
+{"q_idx":183,"topic":"Write your opinion on how personal choices influence one's life and career path."}
+{"q_idx":184,"topic":"Write your personal reflection on death and grief."}
+{"q_idx":185,"topic":"Write your opinion on the importance of maintaining a positive mindset in life."}
+{"q_idx":186,"topic":"Write a text about how listening to music can trigger vivid memories of past experiences."}
+{"q_idx":187,"topic":"Write your opinion on balancing part-time work, law studies, and personal projects."}
+{"q_idx":188,"topic":"Write about your experiences and thoughts regarding caring for houseplants and succulents."}
+{"q_idx":189,"topic":"Write your opinion on the relationship between humans and animals and how artistic expression can influence that relationship."}
+{"q_idx":190,"topic":"Write a text about personal reflections on life, effort, and self-improvement."}
+{"q_idx":191,"topic":"Write your opinion on how to maintain a long-distance romantic relationship."}
+{"q_idx":192,"topic":"Write a text about the role of smiling in everyday interactions and personal well\u2011being."}
+{"q_idx":193,"topic":"Write a personal diary entry describing your daily activities and thoughts."}
+{"q_idx":194,"topic":"Write your opinion on the purpose of life and how individuals can maintain direction toward their personal goals."}
+{"q_idx":195,"topic":"Write a text about the role of effort, luck, and the ability to seize luck in achieving success."}
+{"q_idx":196,"topic":"Write a text about balancing work responsibilities with personal health and rest."}
+{"q_idx":197,"topic":"Write a text about dealing with a spouse's infidelity in marriage."}
+{"q_idx":198,"topic":"Write your opinion on how one perceives the passage of time and personal achievements in life."}
+{"q_idx":199,"topic":"Write a personal essay reflecting on your relationship with a sibling."}
+{"q_idx":200,"topic":"Write a text about the experience of waiting to meet someone and the emotions that arise during that time."}
+{"q_idx":201,"topic":"Write your opinion on alcohol consumption and its effects."}
+{"q_idx":202,"topic":"Write a text about how everyday choices accumulate to shape a person's future."}
+{"q_idx":203,"topic":"Write a piece describing your experience with caring for houseplants and how they influence your mood."}
+{"q_idx":204,"topic":"Write a message expressing gratitude to a close friend."}
+{"q_idx":205,"topic":"Write your opinion on a school sports day, including the events, awards, and student experiences."}
+{"q_idx":206,"topic":"Write a text about a person's experience of insomnia and their inner reflections during sleepless nights."}
+{"q_idx":208,"topic":"Write your thoughts on the significance of a mother's love."}
+{"q_idx":209,"topic":"Write a personal reflection on feeling loneliness and the desire for connection."}
+{"q_idx":210,"topic":"Write a personal reflection on the importance of cherishing moments in life."}
+{"q_idx":211,"topic":"Write about balancing personal hobbies with family responsibilities."}
+{"q_idx":212,"topic":"Write a text about reflecting on past experiences and how they shape one's sense of self."}
+{"q_idx":213,"topic":"Write your opinion on the complexities of love and friendship in romantic relationships."}
+{"q_idx":214,"topic":"Write your opinion on cooking and sharing meals with others."}
+{"q_idx":215,"topic":"Write your opinion on caring for a pet and the responsibilities involved."}
+{"q_idx":216,"topic":"Write your opinion on the Olympic Games."}
+{"q_idx":217,"topic":"Write about your feelings and thoughts regarding a romantic relationship and the uncertainties you experience."}
+{"q_idx":218,"topic":"Write a text about a personal experience of confronting family conflict and emotional distress."}
+{"q_idx":219,"topic":"Write a text about personal reflections on solitude and the passage of time."}
+{"q_idx":220,"topic":"Write your thoughts on the significance of small acts of kindness in everyday life."}
+{"q_idx":221,"topic":"Write your opinion on coping with worry and focusing on the future."}
+{"q_idx":222,"topic":"Write a text about personal reflections on relationships, family expectations, and self-identity."}
+{"q_idx":223,"topic":"Write your opinion on balancing a full-time job with academic studies."}
+{"q_idx":224,"topic":"Write a personal reflection on feeling lost and searching for purpose."}
+{"q_idx":225,"topic":"Write your opinion on bullying among children and how it should be addressed."}
+{"q_idx":226,"topic":"Write a text about how people perceive the arrival of spring in their bodies and emotions."}
+{"q_idx":227,"topic":"Write a text about appreciating the present moment and finding contentment in what one currently has."}
+{"q_idx":228,"topic":"Write a text about reflections on love, time, and personal emotions."}
+{"q_idx":229,"topic":"Write a text about personal feelings and reflections on the end of summer."}
+{"q_idx":230,"topic":"Write your opinion on the concept of letting go."}
+{"q_idx":231,"topic":"Write your personal reflection on recent changes in your life and how you feel about them."}
+{"q_idx":232,"topic":"Write a text about the challenges and benefits of maintaining a regular writing habit."}
+{"q_idx":233,"topic":"Write your personal reflection on your relationship with your father."}
+{"q_idx":234,"topic":"Write your opinion on caring for houseplants and flowers."}
+{"q_idx":235,"topic":"Write your opinion on daily family life and parenting challenges."}
+{"q_idx":236,"topic":"Write a personal reflection on attending a friend's wedding and the sense of responsibility that arises."}
+{"q_idx":237,"topic":"Write your opinion on the nature of beauty."}
+{"q_idx":238,"topic":"Write your opinion on the role of fathers."}
+{"q_idx":239,"topic":"Write a text about personal life planning and reflecting on one's experiences, values, and aspirations."}
+{"q_idx":240,"topic":"Write a piece expressing your thoughts on gratitude."}
+{"q_idx":241,"topic":"Write your opinion on how money influences people's attitudes and happiness."}
+{"q_idx":242,"topic":"Write a text about personal reflections on various movies you have watched."}
+{"q_idx":243,"topic":"Write your opinion on the nature of first love and its lasting impact."}
+{"q_idx":244,"topic":"Write your opinion on what is important in life."}
+{"q_idx":245,"topic":"Write a post expressing your thoughts about the passage of time and your feelings at the start of a new year."}
+{"q_idx":246,"topic":"Write a text about navigating friendship and romantic feelings in a love triangle among high school friends."}
+{"q_idx":247,"topic":"Write a text about personal experiences of procrastination and irregular sleep patterns."}
+{"q_idx":248,"topic":"Write a text about a personal experience at the dentist involving unexpected procedures and anxiety."}
+{"q_idx":249,"topic":"Write a text about the challenges of caring for a newborn during a sleepless night."}
+{"q_idx":250,"topic":"Write a post describing your personal travel experiences around the world."}
+{"q_idx":251,"topic":"Write a personal reflection on your childhood memories and how they have shaped you over the years."}
+{"q_idx":252,"topic":"Write a text about the challenges of maintaining a daily blogging habit and the motivation to keep writing regularly."}
+{"q_idx":253,"topic":"Write a text about how to maintain a long-term romantic relationship."}
+{"q_idx":254,"topic":"Write a text about the concept of taking action and overcoming procrastination."}
+{"q_idx":255,"topic":"Write a text about the factors that contribute to personal happiness."}
+{"q_idx":256,"topic":"Write your thoughts on the experience of aging as a mother."}
+{"q_idx":257,"topic":"Write a personal reflection on your feelings toward your mother."}
+{"q_idx":258,"topic":"Write your opinion on caring for an elderly parent with health issues and managing the associated daily responsibilities."}
+{"q_idx":259,"topic":"Write a text about the role of lies in personal relationships."}
+{"q_idx":260,"topic":"Write your opinion on how colors influence emotions and mood."}
+{"q_idx":261,"topic":"Write your opinion on the importance of getting enough sleep."}
+{"q_idx":262,"topic":"Write your opinion on personal budgeting and food expense management."}
+{"q_idx":263,"topic":"Write your opinion on the nature of dreams and personal aspirations."}
+{"q_idx":264,"topic":"Write your opinion on the significance of birthdays and how they are celebrated."}
+{"q_idx":266,"topic":"Write a text about clocks and how people perceive the passage of time."}
+{"q_idx":267,"topic":"Write your opinion on meeting an online friend in person for the first time."}
+{"q_idx":268,"topic":"Write your opinion on appropriate behavior in movie theaters."}
+{"q_idx":269,"topic":"Write your opinion on loneliness and personal reflection."}
+{"q_idx":271,"topic":"Write your opinion on the role of a pet dog as a companion and protector."}
+{"q_idx":272,"topic":"Write a text about the concept of gratitude and its role in personal growth and humility."}
+{"q_idx":273,"topic":"Write a text about the experience of living alone and how it influences feelings of loneliness and relationships with friends, family, and romantic partners."}
+{"q_idx":274,"topic":"Write a text about personal goal setting and daily routines for health, work, and creative projects."}
+{"q_idx":275,"topic":"Write a personal reflection about a day in your life, describing your routine, surroundings, and emotions."}
+{"q_idx":276,"topic":"Write a text about the influence of artificial intelligence and technology on human life and society."}
+{"q_idx":277,"topic":"Write about the experience of losing a sibling and the emotions associated with it."}
+{"q_idx":278,"topic":"Write a text about how smiling can influence oneself and others."}
+{"q_idx":279,"topic":"Write your perspective on the nature of life."}
+{"q_idx":280,"topic":"Write your thoughts on how impressions of and relationships with people can change over time."}
+{"q_idx":281,"topic":"Write your thoughts on love and loss."}
+{"q_idx":283,"topic":"Write a text about personal exercise routines and the motivation to maintain them."}
+{"q_idx":284,"topic":"Write your opinion on improving interpersonal relationships and effective communication."}
+{"q_idx":285,"topic":"Write a text about the challenges and experiences of adults balancing demanding work responsibilities with personal and family life."}
+{"q_idx":286,"topic":"Write a text about the enduring appeal of physical books compared to digital formats."}
+{"q_idx":287,"topic":"Write about your personal reflections on returning to your hometown and the feelings associated with family and familiar places."}
+{"q_idx":288,"topic":"Write your opinion on Halloween celebrations and costume parties."}
+{"q_idx":289,"topic":"Write your opinion on wedding dresses."}
+{"q_idx":290,"topic":"Write a text about maintaining personal health while balancing work, study, and daily life responsibilities."}
+{"q_idx":291,"topic":"Write a text about the influence of music on human emotions and its significance throughout life."}
+{"q_idx":292,"topic":"Write your opinion on the role of women and men in relationships."}
+{"q_idx":293,"topic":"Write a personal reflection on your recent long-distance travel experiences and how they affect your appreciation of home."}
+{"q_idx":294,"topic":"Write a post describing your thoughts on adopting a foster dog and caring for it."}
+{"q_idx":295,"topic":"Write your opinion on the meaning and value of youth."}
+{"q_idx":296,"topic":"Write a personal anecdote about a recent everyday experience."}
+{"q_idx":297,"topic":"Write your opinion on the value of reading classic literature."}
+{"q_idx":298,"topic":"Write a text about personal experiences and reflections on starting and maintaining a blog."}
+{"q_idx":299,"topic":"Write a text about the importance of appreciating small everyday experiences and noticing beauty in daily life."}
+{"q_idx":300,"topic":"Write a text about the experience of cleaning and organizing a personal living space and the reflections it can evoke."}
+{"q_idx":301,"topic":"Write a text about the nature of friendship and personal reflection on relationships."}
+{"q_idx":302,"topic":"Write a text about caring for elderly parents and the challenges involved."}
+{"q_idx":303,"topic":"Write your opinion on how family relationships influence personal happiness."}
+{"q_idx":304,"topic":"Write a description of a day spent with friends, including the activities you do together, the interactions among the friends, and your personal reflections on the experience."}
+{"q_idx":305,"topic":"Write your reflections on the meaning of life and personal growth."}
+{"q_idx":306,"topic":"Write a personal reflection on a reunion with old friends and the emotions it evokes."}
+{"q_idx":307,"topic":"Write your opinion on the themes of love, loss, and memory as presented in a story about an elderly woman reflecting on past relationships."}
+{"q_idx":308,"topic":"Write a text about personal happiness and gratitude for the positive aspects of one's life."}
+{"q_idx":309,"topic":"Write a personal reflection on the past year at work, describing daily routines, memorable moments, challenges, and hopes for the upcoming year."}
+{"q_idx":310,"topic":"Write your opinion on how adversity can lead to personal growth."}
+{"q_idx":311,"topic":"Write a text about personal reflections on how travel influences one's perspective on life and values."}
+{"q_idx":312,"topic":"Write a post describing a recent family weekend gathering."}
+{"q_idx":313,"topic":"Write a text about navigating a friendship with an ex-partner and the mixed feelings that arise."}
+{"q_idx":314,"topic":"Write your opinion on the advantages and disadvantages of living alone."}
+{"q_idx":315,"topic":"Write a personal reflection on how you perceive the passage of time and aging."}
+{"q_idx":316,"topic":"Write a text about personal reflections and daily experiences."}
+{"q_idx":317,"topic":"Write a New Year greeting message expressing well-wishes and apologies."}
+{"q_idx":318,"topic":"Write a personal essay describing your feelings and reflections about a morning."}
+{"q_idx":319,"topic":"Write a personal reflection on appreciating the present moment and the passage of time."}
+{"q_idx":320,"topic":"Write a description of your weekend activities."}
+{"q_idx":321,"topic":"Write a text about the dilemma of choosing a career that balances financial needs, personal passions, and practical experience."}
+{"q_idx":322,"topic":"Write your opinion on the concept of hope."}
+{"q_idx":323,"topic":"Write a text about coping with the loss of a loved one and reflecting on the meaning of life and death."}
+{"q_idx":324,"topic":"Write a text about how courage can influence taking opportunities and making decisions in life."}
+{"q_idx":325,"topic":"Write your opinion on the purpose of one's existence."}
+{"q_idx":326,"topic":"Write your opinion on how couples can maintain a harmonious relationship over a long marriage."}
+{"q_idx":327,"topic":"Write a personal account of a hiking trip to a mountain, describing the preparation, the climb, interactions with friends, and the sunrise at the summit."}
+{"q_idx":328,"topic":"Write a text about the tension between caring for others and caring for oneself."}
+{"q_idx":329,"topic":"Write a text about the qualities one might desire in an ideal spouse."}
+{"q_idx":330,"topic":"Write a personal reflection on how your faith has influenced your life."}
+{"q_idx":331,"topic":"Write about your experience and feelings after being discharged from the hospital."}
+{"q_idx":332,"topic":"Write your personal reflections on experiencing snow in winter."}
+{"q_idx":333,"topic":"Write a text about the relationship between talent and effort and how they affect personal achievement."}
+{"q_idx":334,"topic":"Write a text about the importance and challenges of effective communication in personal and professional contexts."}
+{"q_idx":335,"topic":"Write a personal reflection on how a song from your past evokes memories and emotions."}
+{"q_idx":337,"topic":"Write a text about the experience of receiving and giving gifts during Christmas and the emotions associated with it."}
+{"q_idx":338,"topic":"Write a personal account describing recent health appointments, daily activities, and how you share updates with friends."}
+{"q_idx":339,"topic":"Write your opinion on the importance of maintaining a healthy lifestyle."}
+{"q_idx":340,"topic":"Write your opinion on the relationship between humanity and nature."}
+{"q_idx":342,"topic":"Write a text about the concept of happiness and how it can be understood."}
+{"q_idx":343,"topic":"Write a text about personal experiences and reflections on traveling and living abroad."}
+{"q_idx":344,"topic":"Write a text about the personal experience of deciding to resign from a job and the emotions and considerations involved."}
+{"q_idx":345,"topic":"Write your opinion on the impact of extensive internet and social media use on personal well\u2011being and real\u2011life interactions."}
+{"q_idx":346,"topic":"Write a text about personal experiences and emotions related to a romantic relationship, including feelings of love, anxiety, and daily interactions."}
+{"q_idx":347,"topic":"Write your opinion on how to choose a partner and love them in a healthy, sustainable way."}
+{"q_idx":348,"topic":"Write your personal reflection on a recent experience of insomnia and how it relates to your daily life and relationships."}
+{"q_idx":349,"topic":"Write a text about the importance of maintaining hope and moving forward despite disappointment."}
+{"q_idx":350,"topic":"Write a text about an individual's conflicted relationship with writing and the emotional turmoil associated with the creative process."}
+{"q_idx":352,"topic":"Write a text about the importance of adapting to changing times and continuously investing in personal growth."}
+{"q_idx":353,"topic":"Write a personal account describing your recent weekend activities, including any shopping, meals, and leisure experiences."}
+{"q_idx":354,"topic":"Write a text about the practice of decluttering and adopting a minimalist lifestyle."}
+{"q_idx":355,"topic":"Write your opinion on the role of chance and destiny in historical meetings."}
+{"q_idx":356,"topic":"Write your opinion on daily health and lifestyle habits."}
+{"q_idx":357,"topic":"Write your opinion on the books you have recently read."}
+{"q_idx":358,"topic":"Write your opinion on gardening and growing a variety of vegetables and fruits."}
+{"q_idx":359,"topic":"Write your opinion on how robotics and artificial intelligence may shape future society and human relationships."}
+{"q_idx":361,"topic":"Write your opinion on workplace relationships and personal interactions."}
+{"q_idx":362,"topic":"Write your opinion on coping with a breakup and the role of friends in the healing process."}
+{"q_idx":363,"topic":"Write a text about the dynamics of love and mutual respect in romantic relationships."}
+{"q_idx":364,"topic":"Write a text about how reading books influences personal reflections on love, life, and personal growth."}
+{"q_idx":365,"topic":"Write a text about personal reflection on feeling stagnant and seeking purposeful change in life."}
+{"q_idx":366,"topic":"Write your opinion on the benefits of reading."}
+{"q_idx":368,"topic":"Write a text about reflecting on one's perception of youth and personal growth over time."}
+{"q_idx":369,"topic":"Write a personal reflection on coping with illness and emotional struggles."}
+{"q_idx":370,"topic":"Write a text about personal growth, self\u2011discovery, and pursuing one's own goals and dreams despite societal expectations."}
+{"q_idx":371,"topic":"Write a text about the importance of helping and supporting others in everyday life."}
+{"q_idx":372,"topic":"Write a text about how a person's appearance and inner qualities influence one's perception of them."}
+{"q_idx":373,"topic":"Write a text about personal emotional healing and spiritual growth after a past relationship."}
+{"q_idx":374,"topic":"Write your opinion on the relationship between diligence, effort, and personal achievement."}
+{"q_idx":375,"topic":"Write a text about personal experiences of feeling isolated and seeking social connection."}
+{"q_idx":376,"topic":"Write a text about the nature of life's journey, personal responsibility, and reflections on existence."}
+{"q_idx":377,"topic":"Write your opinion on the importance of slowing down in life."}
+{"q_idx":378,"topic":"Write a text about how personal attitudes and perspectives influence one's experience of happiness."}
+{"q_idx":379,"topic":"Write a text about the role of laughter in human life."}
+{"q_idx":380,"topic":"Write a text about the experience of being alone and finding personal strength through solitude."}
+{"q_idx":381,"topic":"Write about your personal experiences with frequent alcohol consumption and any intentions you have regarding moderating your drinking."}
+{"q_idx":382,"topic":"Write a text about the desire for companionship and the importance of having a friend."}
+{"q_idx":383,"topic":"Write your opinion on the extent of parental responsibility toward their children."}
+{"q_idx":384,"topic":"Write your opinion on the concept of failure."}
+{"q_idx":385,"topic":"Write a text about the importance of continuous learning and studying throughout life."}
+{"q_idx":386,"topic":"Write your opinion on the importance of mindset and personal responsibility in shaping one's life."}
+{"q_idx":387,"topic":"Write your opinion on the importance of living in harmony with nature and adopting eco\u2011friendly lifestyles."}
+{"q_idx":388,"topic":"Write a personal reflection on celebrating a one-year anniversary with your spouse."}
+{"q_idx":389,"topic":"Write a text about experiencing profound sadness and the struggle to cope with it."}
+{"q_idx":390,"topic":"Write a text about personal life principles and values."}
+{"q_idx":391,"topic":"Write about your experience of being pregnant."}
+{"q_idx":392,"topic":"Write a text about how spoken words can affect people's emotions and well\u2011being."}
+{"q_idx":393,"topic":"Write your opinion on how to handle a child's tantrums and emotional outbursts."}
+{"q_idx":394,"topic":"Write a text about personal aspirations and wishes for the future."}
+{"q_idx":395,"topic":"Write your opinion on caring for an elderly family member."}
+{"q_idx":396,"topic":"Write a text about the relationship between money and personal freedom."}
+{"q_idx":397,"topic":"Write your opinion on marriage and long-term relationships."}
+{"q_idx":398,"topic":"Write a text about personal reflections on death and obsessive thoughts."}
+{"q_idx":399,"topic":"Write about your experience discovering that you are nearsighted and your thoughts on wearing glasses."}
+{"q_idx":400,"topic":"Write your thoughts on how friendships change over time."}
+{"q_idx":401,"topic":"Write your opinion on postpartum body changes and weight management after giving birth."}
+{"q_idx":402,"topic":"Write a text about the relationship between personal effort and outcomes in life."}
+{"q_idx":403,"topic":"Write your opinion on personal productivity and time management."}
+{"q_idx":404,"topic":"Write a personal account describing an experience of illness and recovery that is attributed to religious faith."}
+{"q_idx":405,"topic":"Write about your experience caring for children when they are ill."}
+{"q_idx":406,"topic":"Write a text about how awareness of one's mortality can influence the way people value their time and relationships."}
+{"q_idx":407,"topic":"Write your opinion on the benefits of hiking and spending time in nature for mental and physical well\u2011being."}
+{"q_idx":408,"topic":"Write a text about what is the most important factor for a successful marriage."}
+{"q_idx":409,"topic":"Write your opinion on the relationship between work and personal goals."}
+{"q_idx":410,"topic":"Write a personal reflection on your achievements and goals for the past month."}
+{"q_idx":411,"topic":"Write your opinion on the effect of rainy days on mood and daily activities."}
+{"q_idx":412,"topic":"Write a text about the importance of communicating with individuals and not judging them based on superficial attributes."}
+{"q_idx":413,"topic":"Write a personal reflection on everyday moments that trigger random thoughts."}
+{"q_idx":414,"topic":"Write a piece describing your personal reflections on the moon at night."}
+{"q_idx":415,"topic":"Write a text about the relationship between consumerism and personal fulfillment."}
+{"q_idx":416,"topic":"Write a text about personal experiences and attitudes toward reading books."}
+{"q_idx":417,"topic":"Write your opinion on growing up and transitioning from teenage years to adulthood."}
+{"q_idx":418,"topic":"Write a text about the experience of dreaming and how it relates to perception of reality."}
+{"q_idx":419,"topic":"Write a text about personal reflections on career choices, work ethic, and purpose in life."}
+{"q_idx":420,"topic":"Write your opinion on family gatherings and friendships."}
+{"q_idx":421,"topic":"Write a text about the importance of honest communication and mutual effort in romantic relationships."}
+{"q_idx":422,"topic":"Write your opinion on gender differences between men and women."}
+{"q_idx":423,"topic":"Write your opinion on how keeping a diary influences mental stability."}
+{"q_idx":424,"topic":"Write a text about the experience of growing apart from a close friend over time."}
+{"q_idx":425,"topic":"Write your opinion on how personal experiences and unexpected events influence one's approach to life."}
+{"q_idx":426,"topic":"Write a personal reflection on how your dreams have changed over the course of your life."}
+{"q_idx":427,"topic":"Write your opinion on the meaning and role of sports in society."}
+{"q_idx":428,"topic":"Write your opinion on the importance of being open and fully embracing new ideas or experiences."}
+{"q_idx":429,"topic":"Write your opinion on how parents can support a child who is experiencing bullying and is considering not attending school."}
+{"q_idx":430,"topic":"Write a piece expressing your thoughts on dealing with feelings of inadequacy and finding personal motivation."}
+{"q_idx":431,"topic":"Write a text about exploring one's life's work and personal passion."}
+{"q_idx":432,"topic":"Write a text about learning to ride a bicycle as an adult."}
+{"q_idx":433,"topic":"Write a text about personal reflections on managing time, self-improvement, and balancing work and personal growth."}
+{"q_idx":434,"topic":"Write a text about difficulties falling asleep and personal experiences with sleep."}
+{"q_idx":435,"topic":"Write your opinion on marital communication and how couples handle arguments."}
+{"q_idx":436,"topic":"Write a text about the effects of parental conflict and divorce on children."}
+{"q_idx":437,"topic":"Write your opinion on caregiving for a parent with dementia."}
+{"q_idx":438,"topic":"Write a text about balancing career development and family responsibilities when making life choices."}
+{"q_idx":439,"topic":"Write your thoughts on celebrating the New Year."}
+{"q_idx":440,"topic":"Write your opinion on the concept of freedom."}
+{"q_idx":441,"topic":"Write your opinion on the experience of learning a foreign language through immersion and challenging academic environments."}
+{"q_idx":443,"topic":"Write your opinion on the role of sexual intimacy in romantic relationships."}
+{"q_idx":444,"topic":"Write your opinion on the challenges of balancing career decisions and family responsibilities."}
+{"q_idx":445,"topic":"Write your opinion on the benefits of regular walking for health and well-being."}
+{"q_idx":446,"topic":"Write your opinion on personal growth and self-improvement."}
+{"q_idx":447,"topic":"Write your opinion on caring for and breeding pet birds."}
+{"q_idx":448,"topic":"Write your opinion on how love can change a person."}
+{"q_idx":449,"topic":"Write a text about personal reflections on love, dreams, and the meaning of existence."}
+{"q_idx":450,"topic":"Write a text about how one's thoughts and mindset can affect their experiences and outcomes."}
+{"q_idx":451,"topic":"Write your opinion on how excessive video gaming can affect one's real-life relationships and personal well-being."}
+{"q_idx":452,"topic":"Write a text about encouraging people to pursue their dreams without giving up."}
+{"q_idx":453,"topic":"Write a text about the dynamics of communication and understanding in romantic relationships between men and women."}
+{"q_idx":454,"topic":"Write a text about ways to improve one's writing skills."}
+{"q_idx":456,"topic":"Write your opinion on how individuals navigate marriage, personal happiness, and life choices."}
+{"q_idx":457,"topic":"Write a text about expressing gratitude towards one's parents and reflecting on family relationships."}
+{"q_idx":458,"topic":"Write your opinion on how people cope with incomprehensible or difficult events in life."}
+{"q_idx":459,"topic":"Write a personal reflection on your experience of Christmas."}
+{"q_idx":460,"topic":"Write a text about personal reflections on family life, parenting, and relationships."}
+{"q_idx":461,"topic":"Write your opinion on the role of hope and personal responsibility in overcoming life's challenges."}
+{"q_idx":462,"topic":"Write a text about experiencing uncertainty, loneliness, and the search for purpose and fulfillment in early adulthood."}
+{"q_idx":463,"topic":"Write your personal reflection on regret and growing into adulthood."}
+{"q_idx":464,"topic":"Write a post expressing your gratitude to the friends and community members who have supported you."}
+{"q_idx":466,"topic":"Write a text about how a person's opinions, preferences, and sense of self can change over time and how this fluidity relates to personal identity."}
+{"q_idx":467,"topic":"Write your opinion on breakfast alternatives for busy mornings."}
+{"q_idx":468,"topic":"Write a text about the experience and enjoyment of writing and receiving handwritten letters."}
+{"q_idx":469,"topic":"Write a text about the importance of following one's own path and making independent decisions."}
+{"q_idx":470,"topic":"Write your thoughts on New Year's resolutions."}
+{"q_idx":471,"topic":"Write a text about personal goal setting and self\u2011reflection on daily writing, reading, and project planning activities."}
+{"q_idx":472,"topic":"Write your thoughts about holiday celebrations and winter scenery."}
+{"q_idx":473,"topic":"Write a text about the emotional significance of handwritten letters compared to digital communication."}
+{"q_idx":474,"topic":"Write your opinion on saying goodbye to a close friend who is moving away."}
+{"q_idx":476,"topic":"Write a text about the concept of fate and connections between people in relationships."}
+{"q_idx":477,"topic":"Write your personal reflection on the role of dreams and sleep in your daily life."}
+{"q_idx":478,"topic":"Write a text about personal reflections and daily experiences."}
+{"q_idx":479,"topic":"Write your opinion on the role of free play in child development."}
+{"q_idx":480,"topic":"Write a personal reflection on the significance of the anniversary of starting your blog."}
+{"q_idx":481,"topic":"Write your opinion on marriage and its challenges."}
+{"q_idx":482,"topic":"Write a text about the importance of friendships and appreciating supportive friends."}
+{"q_idx":483,"topic":"Write a text about personal reflections while walking alone and observing the surrounding environment."}
+{"q_idx":484,"topic":"Write your opinion on humility."}
+{"q_idx":485,"topic":"Write a post about the experience of starting a new school term or semester."}
+{"q_idx":486,"topic":"Write your opinion on caring for a sick family member and the challenges of managing health and family activities."}
+{"q_idx":487,"topic":"Write your opinion on what love, dating, and marriage mean."}
+{"q_idx":488,"topic":"Write a text about a person's experience of confessing love for the first time, being rejected, and their subsequent reflections on love, loneliness, and the desire for a romantic relationship."}
+{"q_idx":489,"topic":"Write a personal reflection on your recent travel experiences, describing the places you visited, the people you met, and how the journey affected your feelings."}
+{"q_idx":490,"topic":"Write a text about personal experiences and challenges related to drinking alcohol, including its effects on health and daily life."}
+{"q_idx":491,"topic":"Write a text about personal efforts to improve health and lifestyle, including changes in diet, exercise, and daily activities."}
+{"q_idx":492,"topic":"Write your opinion on the role of physical appearance in personal relationships."}
+{"q_idx":494,"topic":"Write a text about how a person's reading habits and the types of books they choose can influence their thoughts and personal development."}
+{"q_idx":495,"topic":"Write your opinion on the nature of hope and despair."}
+{"q_idx":496,"topic":"Write your opinion on how to appropriately respond to criticism."}
+{"q_idx":497,"topic":"Write a text about reflecting on the interplay between personal experiences and the ever-changing nature of the world, and how individuals contemplate the meaning and direction of their lives."}
+{"q_idx":498,"topic":"Write a text about ways to lead a more interesting and fulfilling life."}
+{"q_idx":499,"topic":"Write your opinion on whether God exists."}
+{"q_idx":500,"topic":"Write your opinion on parental expectations and university admission pressures."}
+{"q_idx":501,"topic":"Write your opinion on the challenges and personal growth involved in pursuing marriage and relationships."}
+{"q_idx":502,"topic":"Write your opinion on personal space and appropriate interpersonal distances."}
+{"q_idx":503,"topic":"Write your thoughts on the role of personal writing in self\u2011understanding."}
+{"q_idx":504,"topic":"Write your opinion on facing challenges and perseverance."}
+{"q_idx":505,"topic":"Write a description of a family outing, including the preparation of a lunch and the sharing of the experience with others."}
+{"q_idx":506,"topic":"Write a text about balancing the pursuit of personal dreams and passions with practical considerations for building a professional career."}
+{"q_idx":507,"topic":"Write a personal reflection on how the choices you have made in life have led you to where you are now and how you view the future."}
+{"q_idx":508,"topic":"Write a piece discussing personal experiences with weight loss and fitness."}
+{"q_idx":509,"topic":"Write a diary entry describing your experiences and emotions during pregnancy."}
+{"q_idx":510,"topic":"Write a text about experiencing burnout and feeling emotionally and physically drained."}
+{"q_idx":511,"topic":"Write your opinion on the experience of saying goodbye and the emotions associated with a farewell ceremony."}
+{"q_idx":512,"topic":"Write your opinion on how personal psychology is reflected in dreams."}
+{"q_idx":513,"topic":"Write a text about the challenges of maintaining strong and lasting friendships."}
+{"q_idx":514,"topic":"Write your opinion on the importance of consistent practice for musical improvement."}
+{"q_idx":515,"topic":"Write a personal reflection on the importance of self\u2011acceptance and doing your best in any situation."}
+{"q_idx":516,"topic":"Write a text about how movies can influence personal emotions and thoughts."}
+{"q_idx":517,"topic":"Write your opinion on the personal reflections about reading various books and how they relate to your life experiences."}
+{"q_idx":518,"topic":"Write a text about personal growth and choosing one's future path."}
+{"q_idx":519,"topic":"Write a text about exploring one's identity and personal growth during young adulthood."}
+{"q_idx":520,"topic":"Write your opinion on the challenges of parent\u2011child relationships and the importance of feeling loved."}
+{"q_idx":521,"topic":"Write your opinion on intuition and how it influences everyday decisions."}
+{"q_idx":522,"topic":"Write a text about the nature of imagination and its role in human experience."}
+{"q_idx":523,"topic":"Write a text about how individuals can discover and maintain activities that they are passionate about."}
+{"q_idx":524,"topic":"Write your personal reflection on returning to school after a break."}
+{"q_idx":525,"topic":"Write your opinion on what it means to be a good person."}
+{"q_idx":526,"topic":"Write a text about personal reflections on solo travel and how it can influence self\u2011discovery and the perception of experiences."}
+{"q_idx":527,"topic":"Write your personal reflections on feelings of anxiety, fear, and existential thoughts about life and mortality."}
+{"q_idx":528,"topic":"Write a text about discovering beauty and meaning in the ordinary, everyday aspects of life."}
+{"q_idx":529,"topic":"Write a text about appreciating the present moment and finding happiness in everyday life."}
+{"q_idx":530,"topic":"Write your opinion on balancing leisure activities such as gaming with academic responsibilities."}
+{"q_idx":531,"topic":"Write your opinion on dog rescue and fostering pets."}
+{"q_idx":532,"topic":"Write your opinion on the relationship between dieting and personal happiness."}
+{"q_idx":533,"topic":"Write a personal reflection on your experiences with starting and maintaining a running routine."}
+{"q_idx":534,"topic":"Write your opinion on the experience of reconnecting with a past romantic partner and the feelings associated with shared memories."}
+{"q_idx":535,"topic":"Write your opinion on the importance of communication and responsibility within a marriage."}
+{"q_idx":536,"topic":"Write a description of a memorable gift you received, focusing on its details and symbolic meaning."}
+{"q_idx":537,"topic":"Write your opinion on coping with grief after the loss of a close friend."}
+{"q_idx":538,"topic":"Write your opinion on family dynamics and sibling relationships."}
+{"q_idx":539,"topic":"Write a text about the nature of personal identity and how individuals perceive themselves and others."}
+{"q_idx":540,"topic":"Write a text about the emotional experience of encountering someone from one's past and the mixed feelings it evokes."}
+{"q_idx":541,"topic":"Write a text about the importance of listening to perspectives from people with different backgrounds."}
+{"q_idx":542,"topic":"Write a personal reflection on growing up, pursuing your dreams, and facing life's challenges."}
+{"q_idx":543,"topic":"Write a text about how interpersonal connections contribute to the meaning and purpose of human life."}
+{"q_idx":544,"topic":"Write your opinion on bicycle travel."}
+{"q_idx":545,"topic":"Write a personal reflection on feeling uncertain about your career and future, describing your thoughts and emotions."}
+{"q_idx":546,"topic":"Write a text about how individuals can develop a creative mindset and increase their creativity."}
+{"q_idx":547,"topic":"Write a text about personal beliefs regarding death and the afterlife."}
+{"q_idx":548,"topic":"Write a text about the importance of cherishing relationships and making the most of time with family and loved ones."}
+{"q_idx":549,"topic":"Write your opinion on the existence of extraterrestrial life in the universe."}
+{"q_idx":550,"topic":"Write a blog post describing your experience with a recent home burglary."}
+{"q_idx":551,"topic":"Write your opinion on budgeting and financial planning for a wedding."}
+{"q_idx":552,"topic":"Write your opinion on personal weight loss and its impact on self-esteem."}
+{"q_idx":553,"topic":"Write your personal reflection on the loss of a beloved pet."}
+{"q_idx":554,"topic":"Write a personal reflection on learning a musical instrument and the emotions experienced during the process."}
+{"q_idx":555,"topic":"Write a text about reflecting on how past experiences shape the present and affect personal relationships and daily life."}
+{"q_idx":556,"topic":"Write your opinion on keeping fish as pets."}
+{"q_idx":557,"topic":"Write your opinion on the concept of emptiness and fulfillment in a spiritual or philosophical context."}
+{"q_idx":558,"topic":"Write your opinion on how games influence real-world society."}
+{"q_idx":559,"topic":"Write a personal reflection about your first love."}
+{"q_idx":560,"topic":"Write a personal narrative about your experiences with rabbits."}
+{"q_idx":561,"topic":"Write a text about how experiencing hardship can lead to personal growth, using the metaphor of flowers blooming after a cold winter."}
+{"q_idx":562,"topic":"Write your opinion on the relationship between a child and their mother."}
+{"q_idx":563,"topic":"Write a description of your recent cooking activities and the dishes you prepared."}
+{"q_idx":564,"topic":"Write your opinion on the importance of expressing one's true self in creative work."}
+{"q_idx":565,"topic":"Write your opinion on aging and how you feel about growing old."}
+{"q_idx":566,"topic":"Write your opinion on how personal happiness and self\u2011care relate to helping others."}
+{"q_idx":567,"topic":"Write a text about finding happiness and fulfillment in one's work."}
+{"q_idx":568,"topic":"Write a text about the relationship between mothers and daughters."}
+{"q_idx":569,"topic":"Write your opinion on how music can express love."}
+{"q_idx":570,"topic":"Write a text about the importance of spending rewarding time with oneself and loved ones."}
+{"q_idx":571,"topic":"Write a personal reflection on gratitude and self\u2011improvement."}
+{"q_idx":572,"topic":"Write a text about how a person can keep smiling consistently in daily life."}
+{"q_idx":573,"topic":"Write your opinion on aging and the feeling of loneliness."}
+{"q_idx":574,"topic":"Write a text about how individuals perceive their own identity when they frequently receive comments about their physical appearance from others."}
+{"q_idx":576,"topic":"Write a text about learning to drive as a beginner and the experiences associated with practicing driving for the first time."}
+{"q_idx":577,"topic":"Write your opinion on teachers."}
+{"q_idx":578,"topic":"Write about your experiences with social gatherings and drinking with friends or colleagues."}
+{"q_idx":579,"topic":"Write a personal reflection on the experience of a pregnancy loss."}
+{"q_idx":580,"topic":"Write your opinion on how to effectively utilize early morning hours for personal productivity."}
+{"q_idx":581,"topic":"Write a personal reflection on your daily routine, including activities such as work, exercise, and cultural interests."}
+{"q_idx":582,"topic":"Write a text about personal responsibility and self-reflection on societal issues."}
+{"q_idx":583,"topic":"Write a text about personal reflections on reaching the age of 40 and recent life changes."}
+{"q_idx":584,"topic":"Write a text about the challenges of trusting others and understanding people's true feelings in relationships."}
+{"q_idx":585,"topic":"Write a post describing your experience of starting a blog and what you hope to share through it."}
+{"q_idx":587,"topic":"Write a piece expressing your personal reflections and emotions."}
+{"q_idx":588,"topic":"Write a personal account describing a recent experience with a family member's hospitalization."}
+{"q_idx":589,"topic":"Write a text about the emotional experience of losing a loved one and coping with intense feelings of attachment, loneliness, and depression."}
+{"q_idx":590,"topic":"Write a text about how individuals can cultivate a mindset that leads to a richer and happier life."}
+{"q_idx":591,"topic":"Write a personal reflection on attending a friend's wedding."}
+{"q_idx":592,"topic":"Write a text about the complexities of romantic relationships between humans and artificial intelligence."}
+{"q_idx":593,"topic":"Write a personal reflection on how you have changed as a person over time."}
+{"q_idx":594,"topic":"Write your opinion on the meaning of life and how one can maintain happiness and a youthful mindset."}
+{"q_idx":595,"topic":"Write a text about the concept of impermanence in life and how perspective influences the meaning of one's existence."}
+{"q_idx":596,"topic":"Write a personal reflection on how becoming a mother has changed your life and your dreams."}
+{"q_idx":597,"topic":"Write your opinion on effective exam studying strategies."}
+{"q_idx":598,"topic":"Write your opinion on overcoming personal adversity and not blaming circumstances."}
+{"q_idx":599,"topic":"Write a personal reflection about your experiences with coffee."}
+{"q_idx":600,"topic":"Write your opinion on the challenges and feelings associated with job hunting after graduation."}
+{"q_idx":601,"topic":"Write a text about personal reflections on feeling envy toward others' happiness and the challenges of finding one's own happiness."}
+{"q_idx":602,"topic":"Write your opinion on the relationship between material possessions and personal fulfillment."}
+{"q_idx":603,"topic":"Write a text about the experience of sharing meals with family members and the feelings of happiness and connection that arise from cooking and eating together."}
+{"q_idx":604,"topic":"Write a text about how people perceive and decide to seize opportunities."}
+{"q_idx":605,"topic":"Write a text about personal reward systems and how daily discipline influences motivation and skill development."}
+{"q_idx":606,"topic":"Write a text about how comparing oneself to others affects personal desires and decision\u2011making."}
+{"q_idx":607,"topic":"Write about your recent personal experiences and purchases."}
+{"q_idx":609,"topic":"Write your thoughts on dealing with anxiety and uncertainty in a romantic relationship."}
+{"q_idx":610,"topic":"Write your thoughts about the beauty of spring flowers and the birds that visit them."}
+{"q_idx":611,"topic":"Write a text about personal experiences of changing hair color and the reflections associated with it."}
+{"q_idx":612,"topic":"Write a text about the concerns and feelings people have when transitioning to adulthood and taking on new responsibilities."}
+{"q_idx":613,"topic":"Write a personal story describing a memorable experience you had with a teacher."}
+{"q_idx":615,"topic":"Write a text about the concept of humility and its relationship to personal growth and spiritual perspective."}
+{"q_idx":616,"topic":"Write your opinion on personal feelings of inadequacy and lack of purpose."}
+{"q_idx":617,"topic":"Write a text about marriage and the challenges experienced over time."}
+{"q_idx":618,"topic":"Write a text about developing personal discipline by creating and following daily routines."}
+{"q_idx":619,"topic":"Write a text about a personal experience of dealing with a cold and its impact on daily activities."}
+{"q_idx":620,"topic":"Write a personal reflection on a memorable dining experience with your child."}
+{"q_idx":621,"topic":"Write a personal reflection on your hobbies and how they affect your life."}
+{"q_idx":622,"topic":"Write your opinion on the role of faith and religious belief in personal life."}
+{"q_idx":623,"topic":"Write a text about the impact of mobile phone usage on personal relationships"}
+{"q_idx":624,"topic":"Write a piece expressing your admiration and affection for a person you admire."}
+{"q_idx":625,"topic":"Write about your daily experiences related to food, meals, and everyday activities."}
+{"q_idx":626,"topic":"Write a personal reflection on a challenging year and how you overcame the difficulties you faced."}
+{"q_idx":627,"topic":"Write a text about the interplay between emotion and reason in romantic relationships."}
+{"q_idx":628,"topic":"Write a text about the experience of being unable to forget a former romantic partner while in a current relationship."}
+{"q_idx":629,"topic":"Write a text about reflecting on mortality and the desire to live a life without regrets."}
+{"q_idx":630,"topic":"Write a text about the process of forming and maintaining personal habits."}
+{"q_idx":631,"topic":"Write a text about coping with disappointment and finding motivation after a setback."}
+{"q_idx":632,"topic":"Write your opinion on the nature of the Holy Spirit and how believers experience its presence."}
+{"q_idx":633,"topic":"Write your opinion on living with a cat and adapting to its behavior."}
+{"q_idx":634,"topic":"Write your opinion on the concept of past lives and reincarnation."}
+{"q_idx":635,"topic":"Write a personal reflection on the experience of New Year's Day."}
+{"q_idx":636,"topic":"Write a description of a typical day in your life, including activities such as personal care, errands, meals, and reflections."}
+{"q_idx":637,"topic":"Write your opinion on the causes of educational decline and the role of corporal punishment in education."}
+{"q_idx":638,"topic":"Write your thoughts on the nature of art."}
+{"q_idx":639,"topic":"Write your opinion on caring for pet insects and their maintenance."}
+{"q_idx":640,"topic":"Write your opinion on personal credit card debt and how to manage it."}
+{"q_idx":641,"topic":"Write a personal account of your experience during labor and delivery."}
+{"q_idx":642,"topic":"Write your opinion on cherry blossom viewing parties in Japan."}
+{"q_idx":643,"topic":"Write your opinion on dealing with conflicts in family relationships."}
+{"q_idx":644,"topic":"Write your personal reflection on a recent hiking experience."}
+{"q_idx":645,"topic":"Write a text about personal reflections on changing perceptions of beauty and self\u2011worth over time."}
+{"q_idx":646,"topic":"Write a text about experiencing frequent forgetfulness and memory lapses in daily life."}
+{"q_idx":648,"topic":"Write a text about the concept of unconditional, sky-like love."}
+{"q_idx":649,"topic":"Write a text about personal reflections on letting go of past relationships and memories."}
+{"q_idx":650,"topic":"Write a text about a child's first days of kindergarten and the emotional experiences of both the child and the parent."}
+{"q_idx":652,"topic":"Write a personal recollection about a memorable friendship or event from your past."}
+{"q_idx":653,"topic":"Write a text about the tension between personal ideals and societal pressures and the desire to live authentically."}
+{"q_idx":654,"topic":"Write your opinion on the significance of roads as a metaphor for life's journey."}
+{"q_idx":655,"topic":"Write a personal introduction describing yourself, including your interests, hobbies, and aspirations."}
+{"q_idx":656,"topic":"Write a text about balancing academic goals and maintaining friendships during school years."}
+{"q_idx":658,"topic":"Write a text about personal reflections on marriage and how it changes one's perspective on life."}
+{"q_idx":659,"topic":"Write your opinion on the future impact of artificial intelligence on society and the economy."}
+{"q_idx":660,"topic":"Write your opinion on teamwork."}
+{"q_idx":661,"topic":"Write a personal reflection on your experiences with solitude and social interactions as an introverted person."}
+{"q_idx":662,"topic":"Write a text about methods for maintaining youth and staying healthy as one ages."}
+{"q_idx":663,"topic":"Write a text about a middle school student's experience of uncertain feelings and interactions with a classmate they may have a crush on."}
+{"q_idx":664,"topic":"Write your opinion on birdwatching."}
+{"q_idx":665,"topic":"Write a text about how writing can be used for self\u2011understanding and personal growth."}
+{"q_idx":666,"topic":"Write a text about personal experiences with procrastination and its impact on completing tasks."}
+{"q_idx":667,"topic":"Write your opinion on the impact of digital technology and internet use on human thinking and attention."}
+{"q_idx":668,"topic":"Write your opinion on changing jobs and resigning from a current position."}
+{"q_idx":670,"topic":"Write a text about individuals reassessing their career and life choices in their thirties and considering new directions."}
+{"q_idx":671,"topic":"Write about an unexpected encounter with strangers while traveling and how it influenced your experience."}
+{"q_idx":672,"topic":"Write your opinion on the experience of working long hours and its impact on personal life."}
+{"q_idx":673,"topic":"Write your opinion on how to make effective use of free time."}
+{"q_idx":674,"topic":"Write your thoughts on practicing mindfulness and being present in everyday activities."}
+{"q_idx":675,"topic":"Write your opinion on self-esteem and confidence."}
+{"q_idx":676,"topic":"Write your opinion on how personal habits influence the ability to change and improve oneself."}
+{"q_idx":678,"topic":"Write a text about the reliance on the internet in modern life and its implications."}
+{"q_idx":679,"topic":"Write a text about personal reflections on mortality and the meaning of life."}
+{"q_idx":680,"topic":"Write a personal account of your recent experience with illness and recovery."}
+{"q_idx":681,"topic":"Write your opinion on drunk driving and its consequences."}
+{"q_idx":682,"topic":"Write your personal recollection of a childhood memory."}
+{"q_idx":683,"topic":"Write a blog post introducing yourself and describing your motivations for starting a blog."}
+{"q_idx":684,"topic":"Write a post about your experience coping with a serious illness and encouraging others who are going through similar challenges."}
+{"q_idx":685,"topic":"Write your opinion on English language learning and its impact on personal development."}
+{"q_idx":686,"topic":"Write your opinion on politics."}
+{"q_idx":687,"topic":"Write your opinion on personal responsibility and its relation to happiness."}
+{"q_idx":688,"topic":"Write a text about personal daily experiences and reflections on one's hometown and the sea."}
+{"q_idx":689,"topic":"Write a text about a pet's daily activities as described in a diary."}
+{"q_idx":690,"topic":"Write a text about the factors that contribute to personal success, such as observation, diverse reading, and relationships."}
+{"q_idx":691,"topic":"Write a text about how individuals reflect on the relationship between money, love, and spiritual fulfillment."}
+{"q_idx":692,"topic":"Write a personal reflection on the experience of growing up and transitioning into adulthood."}
+{"q_idx":693,"topic":"Write a text about the significance of having personal silence and quiet time for oneself."}
+{"q_idx":694,"topic":"Write a text about how making small changes in daily habits can help individuals develop a personal sense of direction and improve their life."}
+{"q_idx":695,"topic":"Write a text about personal reflections and inner thoughts."}
+{"q_idx":697,"topic":"Write a personal narrative about a memorable experience with your dog."}
+{"q_idx":698,"topic":"Write a text about communicating personal emotional struggles within a marriage."}
+{"q_idx":699,"topic":"Write your personal reflections on how everyday experiences influence your emotions and perspectives."}
+{"q_idx":700,"topic":"Write a text about the nature of fate and destiny as conceptual constructs and their relationship to time, causality, and personal experience."}
+{"q_idx":701,"topic":"Write about your experience getting a new hairstyle at a hair salon."}
+{"q_idx":702,"topic":"Write a text about learning to forgive oneself and others and finding personal growth."}
+{"q_idx":703,"topic":"Write a text about how modern digital devices affect human relationships and daily life."}
+{"q_idx":704,"topic":"Write about personal experiences with weight loss and the methods used."}
+{"q_idx":705,"topic":"Write a personal reflection on a music video that evokes memories of past experiences."}
+{"q_idx":706,"topic":"Write your opinion on the concept of home."}
+{"q_idx":708,"topic":"Write a personal reflection on how you view yourself, including your perceived strengths and weaknesses."}
+{"q_idx":709,"topic":"Write a text about personal reflections on approaching one's thirties and considerations of work, marriage, music, and travel."}
+{"q_idx":710,"topic":"Write a text about personal reflections on keeping a handwritten journal and its emotional impact."}
+{"q_idx":711,"topic":"Write a text about how love and personal connections give meaning to life."}
+{"q_idx":712,"topic":"Write a post describing your experience caring for a family member with multiple serious health conditions."}
+{"q_idx":713,"topic":"Write a text about personal experiences of social anxiety and the challenges of approaching others."}
+{"q_idx":714,"topic":"Write a personal reflection on the loss of a close friend."}
+{"q_idx":715,"topic":"Write a text about learning from mentors or coaches as a way to develop skills and improve personal growth."}
+{"q_idx":716,"topic":"Write your opinion on the relationship between children and their parents."}
+{"q_idx":717,"topic":"Write a text about how individuals experience and perceive the passage of time in various aspects of life."}
+{"q_idx":718,"topic":"Write a piece discussing the challenges of family dynamics and personal emotions."}
+{"q_idx":719,"topic":"Write a text about the concept of success and how individuals might achieve it."}
+{"q_idx":720,"topic":"Write a text about caring for pet hamsters and sharing personal experiences with them."}
+{"q_idx":721,"topic":"Write your opinion on how to approach decisions when faced with choices."}
+{"q_idx":722,"topic":"Write your opinion on the differences between a romantic partner and a friend."}
+{"q_idx":723,"topic":"Write a text about experiences in an unhealthy romantic relationship."}
+{"q_idx":724,"topic":"Write a text about the concept of youth as a state of mind rather than a specific age."}
+{"q_idx":725,"topic":"Write your opinion on how marathon running can be related to life experiences."}
+{"q_idx":726,"topic":"Write your opinion on the relationship between a person and their dog."}
+{"q_idx":727,"topic":"Write a text about how the way people choose their words can affect their relationships with others."}
+{"q_idx":728,"topic":"Write your opinion on the challenges of balancing personal identity with household responsibilities."}
+{"q_idx":729,"topic":"Write a text about experiencing newfound happiness in a romantic relationship and personal growth."}
+{"q_idx":730,"topic":"Write your opinion on the differences between original works and their film adaptations."}
+{"q_idx":731,"topic":"Write your opinion on encouraging a picky child to eat a balanced diet."}
+{"q_idx":732,"topic":"Write your opinion on the experience of participating in running events and the feelings associated with them."}
+{"q_idx":733,"topic":"Write your personal reflection on a rainy day spent at the sea with a loved one."}
+{"q_idx":734,"topic":"Write your opinion on the importance of taking action and trying various activities when you are unsure of what you want to do."}
+{"q_idx":735,"topic":"Write a text about the experience of maintaining a long-term personal writing habit and its impact on one's life."}
+{"q_idx":736,"topic":"Write a personal account describing your experience with panic disorder."}
+{"q_idx":737,"topic":"Write your opinion on the importance of parents having personal time away from their children."}
+{"q_idx":738,"topic":"Write your opinion on how a cluttered room affects mental and physical well\u2011being and the benefits of a tidy living space."}
+{"q_idx":739,"topic":"Write your opinion on decluttering and disposing of unused clothing and accessories."}
+{"q_idx":740,"topic":"Write a post expressing your thoughts about ending the year and wishing others a happy new year."}
+{"q_idx":741,"topic":"Write your opinion on parental involvement in adult children's romantic relationships."}
+{"q_idx":742,"topic":"Write a personal essay reflecting on your own identity and self\u2011perception."}
+{"q_idx":743,"topic":"Write a text about creating and maintaining a personal dream list."}
+{"q_idx":744,"topic":"Write a personal account describing a day spent caring for a young child during outings, including the activities, challenges, and observations you experienced."}
+{"q_idx":745,"topic":"Write your opinion on the idea that waiting can lead to unexpected positive outcomes and how it relates to personal growth."}
+{"q_idx":746,"topic":"Write about the concept of individuality and self\u2011expression."}
+{"q_idx":747,"topic":"Write your opinion on how near-death experiences influence a person's perspective on life."}
+{"q_idx":748,"topic":"Write your opinion on the role of belief and self\u2011fulfilling prophecy in personal success."}
+{"q_idx":749,"topic":"Write your opinion on how to effectively take breaks and relax."}
+{"q_idx":750,"topic":"Write your opinion on how to choose between a romantic partner and parental expectations regarding marriage."}
+{"q_idx":751,"topic":"Write your opinion on how to reconcile with an ex-partner after a breakup."}
+{"q_idx":752,"topic":"Write a text about the role of empathy in personal relationships and professional work."}
+{"q_idx":753,"topic":"Write a post describing tips for improving sleep quality."}
+{"q_idx":754,"topic":"Write your personal thoughts on love."}
+{"q_idx":755,"topic":"Write a text about experiencing personal weakness and the search for inner strength."}
+{"q_idx":756,"topic":"Write about a cherished family heirloom and its significance."}
+{"q_idx":757,"topic":"Write your opinion on honesty and communication in romantic relationships."}
+{"q_idx":758,"topic":"Write a personal reflection on caring for a small plant and the emotions and thoughts it evokes over time."}
+{"q_idx":759,"topic":"Write a text about expressing affection and communicating preferences in a romantic relationship."}
+{"q_idx":760,"topic":"Write a text about the experience of offering sincere emotional support to someone who is struggling and the impact of genuine empathy."}
+{"q_idx":761,"topic":"Write a text about personal existential reflections on happiness and suffering."}
+{"q_idx":762,"topic":"Write a text about how people can recognize the qualities of a good partner in a romantic relationship."}
+{"q_idx":763,"topic":"Write your opinion on the relationship between material possessions and personal fulfillment."}
+{"q_idx":764,"topic":"Write a text about personal experiences of moving to a new place and dealing with changes in friendships and family relationships."}
+{"q_idx":765,"topic":"Write a text about accepting imperfection and embracing non-perfect aspects of life."}
+{"q_idx":766,"topic":"Write a personal narrative describing a day in your life."}
+{"q_idx":768,"topic":"Write your opinion on the importance of early exposure to written language for children."}
+{"q_idx":769,"topic":"Write a post expressing your opinion on the benefits of running for physical fitness and mental well\u2011being."}
+{"q_idx":770,"topic":"Write your personal reflection on how music has impacted your life."}
+{"q_idx":771,"topic":"Write a description of a pet dog and your experiences with it."}
+{"q_idx":772,"topic":"Write a personal narrative about a memorable experience you had in a hospital."}
+{"q_idx":773,"topic":"Write a text about how individuals establish and adjust personal boundaries (bottom lines) in intimate relationships."}
+{"q_idx":774,"topic":"Write your personal reflection on the importance of a romantic partner in your life."}
+{"q_idx":775,"topic":"Write your opinion on casual meditation and self\u2011observation."}
+{"q_idx":776,"topic":"Write a piece describing your experience with growing rose plants and the insights you gained from it."}
+{"q_idx":777,"topic":"Write a text about how personality compatibility influences romantic relationships."}
+{"q_idx":778,"topic":"Write a text about the relationship between seasonal changes and human reflection on nature."}
+{"q_idx":779,"topic":"Write a text about overcoming shyness in social situations"}
+{"q_idx":780,"topic":"Write a text about the importance of reflecting on one's personal habits and how they affect relationships with others."}
+{"q_idx":781,"topic":"Write a personal account describing how rainy weather impacted your daily activities and your feelings about upcoming events."}
+{"q_idx":782,"topic":"Write a piece reflecting on the dynamics between a mother and her daughter."}
+{"q_idx":783,"topic":"Write a text about the benefits of focusing on one task instead of multitasking."}
+{"q_idx":784,"topic":"Write a text about the role of emotions, especially fear, in human life and personal growth."}
+{"q_idx":785,"topic":"Write your opinion on drug addiction."}
+{"q_idx":786,"topic":"Write your opinion on celebrating Parents' Day and surprising family members with visits and gifts."}
+{"q_idx":787,"topic":"Write a text about how personal experiences contribute to shaping an individual's identity."}
+{"q_idx":788,"topic":"Write a personal recollection about a memorable experience of your mother's care."}
+{"q_idx":789,"topic":"Write your opinion on astrology and its claims about influencing personal life."}
+{"q_idx":790,"topic":"Write your opinion on coping with hot weather and its impact on daily routines."}
+{"q_idx":791,"topic":"Write a post describing your experience celebrating a marriage anniversary with your family."}
+{"q_idx":792,"topic":"Write a text about how secrets affect intimate relationships."}
+{"q_idx":793,"topic":"Write a personal account of your New Year's day spent with family, describing the foods you purchased and ate, and any related activities."}
+{"q_idx":794,"topic":"Write your opinion on navigating complex romantic relationships involving conflicting emotions and moral considerations."}
+{"q_idx":796,"topic":"Write a post describing your experiences and thoughts about spending time with a close friend during various activities and events."}
+{"q_idx":797,"topic":"Write a text about how people experience memories they wish to forget, why some forgotten events become vivid, and the ambiguous nature of human memory."}
+{"q_idx":798,"topic":"Write about a recent travel experience and the relationships you developed during that trip."}
+{"q_idx":799,"topic":"Write a text about personal reflection on one's own happiness and self\u2011improvement."}
+{"q_idx":800,"topic":"Write your opinion on how a busy work schedule impacts personal reading habits."}
+{"q_idx":801,"topic":"Write your opinion on being a guardian for a pet dog and its puppies."}
+{"q_idx":802,"topic":"Write a personal reflection on how you cope with an unexpected family health issue and motivate yourself for upcoming challenges."}
+{"q_idx":803,"topic":"Write a text about how to support a friend who frequently expresses low self\u2011esteem and feels inadequate about their life choices."}
+{"q_idx":804,"topic":"Write a text about personal self\u2011discovery and reflecting on one's identity and feelings of uniqueness."}
+{"q_idx":805,"topic":"Write a text about personal experiences and challenges in training for long-distance running."}
+{"q_idx":806,"topic":"Write a text about feeling lonely and longing for meaningful friendships."}
+{"q_idx":807,"topic":"Write a text about longing and affection for a distant loved one during autumn."}
+{"q_idx":808,"topic":"Write your opinion on the privacy of celebrities and media coverage of their personal lives."}
+{"q_idx":809,"topic":"Write a personal account describing a day you went fishing that turned out to be difficult, including details about planning, location choices, weather, equipment issues, and how the experience affected you."}
+{"q_idx":810,"topic":"Write a personal reflection on your experiences and feelings upon reaching the age of 25."}
+{"q_idx":811,"topic":"Write a text about how personal thoughts can limit or expand one's potential and achievements."}
+{"q_idx":812,"topic":"Write a text about personal experiences and thoughts related to having very short hair and the process of hair growth."}
+{"q_idx":814,"topic":"Write a text about family dynamics and sibling relationships in a household where one sibling feels unfairly treated."}
+{"q_idx":815,"topic":"Write your opinion on how parents should manage children's use of computers and internet content."}
+{"q_idx":816,"topic":"Write a text about the experience of constantly making choices in life and feeling conflicted about them."}
+{"q_idx":817,"topic":"Write your opinion on how a simple lifestyle can benefit people who prefer to avoid effort."}
+{"q_idx":818,"topic":"Write your opinion on joining a choir for personal healing and the experience of singing."}
+{"q_idx":819,"topic":"Write a text about ending a romantic relationship in a respectful manner."}
+{"q_idx":820,"topic":"Write a New Year's greeting expressing wishes for health and happiness."}
+{"q_idx":821,"topic":"Write your thoughts on self-awareness and personal growth."}
+{"q_idx":822,"topic":"Write a text about authenticity and individuality in personal identity."}
+{"q_idx":823,"topic":"Write your opinion on analog photography versus digital photography."}
+{"q_idx":824,"topic":"Write your opinion on how parents should address bullying behavior and inappropriate habits in children."}
+{"q_idx":825,"topic":"Write a text about appreciating small positive experiences and maintaining a positive mindset in everyday life."}
+{"q_idx":826,"topic":"Write a text about the importance of friendships and appreciating supportive friends."}
+{"q_idx":827,"topic":"Write your opinion on expressing love passionately and without restraint."}
+{"q_idx":828,"topic":"Write your opinion on setting personal boundaries and saying no to others who exploit your kindness."}
+{"q_idx":830,"topic":"Write about your experience of climbing a mountain."}
+{"q_idx":831,"topic":"Write a text about the challenges faced by a working mother who is caring for a sick child and an ill parent while trying to fulfill her job responsibilities."}
+{"q_idx":832,"topic":"Write a text about how a person's perception determines what they see in the world."}
+{"q_idx":833,"topic":"Write a post describing your experience with a recent medical procedure and recovery."}
+{"q_idx":834,"topic":"Write a text about the relationship between earning money and having meaningful work and relationships."}
+{"q_idx":835,"topic":"Write a text about how positive and encouraging words can affect a person's well\u2011being and mindset."}
+{"q_idx":836,"topic":"Write your opinion on the relationship between belief in oneself and achieving one's goals."}
+{"q_idx":837,"topic":"Write a text about celebrating a child's 15th birthday and reflecting on family relationships."}
+{"q_idx":838,"topic":"Write a text about personal experiences and reflections while training for running, including thoughts on motivation, pacing, and safety considerations."}
+{"q_idx":839,"topic":"Write a text about how individuals perceive and manage money in their lives."}
+{"q_idx":840,"topic":"Write your opinion on how communication frequency affects romantic relationships."}
+{"q_idx":841,"topic":"Write your opinion on how a pet dog can impact a person's emotional well\u2011being."}
+{"q_idx":842,"topic":"Write a personal account of celebrating a child's birthday."}
+{"q_idx":843,"topic":"Write your opinion on the importance of being authentic and discovering personal strengths."}
+{"q_idx":844,"topic":"Write a text about personal experiences with weather and daily life reflections."}
+{"q_idx":845,"topic":"Write your thoughts about the night sky and its stars."}
+{"q_idx":846,"topic":"Write a post describing your thoughts on maintaining a home garden and the various plants you care for."}
+{"q_idx":847,"topic":"Write a personal reflection on the experience of feeling isolated and pressured during school years."}
+{"q_idx":848,"topic":"Write a text about the impact of prolonged use of small-screen devices such as smartphones on eye health."}
+{"q_idx":849,"topic":"Write a text about the importance of expressing one's feelings and communicating honestly in personal and professional relationships."}
+{"q_idx":850,"topic":"Write your opinion on how a single parent can raise a child confidently after divorce."}
+{"q_idx":851,"topic":"Write a text about questioning the concept of adulthood and the desire to remain childlike."}
+{"q_idx":852,"topic":"Write a text about being mindful of personal health and preventive habits."}
+{"q_idx":853,"topic":"Write your opinion on love and personal self\u2011esteem."}
+{"q_idx":854,"topic":"Write a personal account describing your experience with starting a new diet, your weight\u2011loss goals, and any related plans or activities you have upcoming."}
+{"q_idx":855,"topic":"Write a text about personal reflections on loss, grief, and everyday challenges."}
+{"q_idx":856,"topic":"Write a text about how people make career and financial decisions influenced by their parents' expectations and how those choices affect their personal happiness."}
+{"q_idx":857,"topic":"Write your opinion on the future of civilization and the role of religion and society."}
+{"q_idx":858,"topic":"Write a text about creating and following a personal daily schedule to improve productivity."}
